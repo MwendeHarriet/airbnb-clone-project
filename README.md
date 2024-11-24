@@ -51,7 +51,7 @@ This project involves building an Airbnb clone, focusing on creating a web appli
 - Streamlined checkout process for hassle-free bookings.  
 
 ### Primary Pages  
-
+ 
 | Page                 | Description                                                                 | Key Features                                                                                   |
 |-----------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Property Listing View | Displays all properties based on the user's search criteria or default settings. | Property images, titles, location, price, availability filters, and pagination.               |
@@ -64,6 +64,16 @@ A user-friendly design ensures that users can navigate and complete tasks effici
 
 ### UI/UX Design Planning
 
+### Colours
+- #FFFFFF
+- #34967C
+- #FFFFFF
+- #FFA800
 
+### Font Family
+- Inter, sans-serif
+
+### Font Weight
+- 400
 ---
 😊
