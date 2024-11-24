@@ -75,5 +75,8 @@ A user-friendly design ensures that users can navigate and complete tasks effici
 
 ### Font Weight
 - 400
+
+### Importance of identifying design properties of a mock up design
+Identifying design properties in a mock-up is essential for ensuring clear communication of visual and functional goals, maintaining consistency across the application, and guiding efficient development to reduce rework. It also helps prioritize usability and accessibility, aligning the final product with the intended user experience.
 ---
 😊
