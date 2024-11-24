@@ -78,5 +78,77 @@ A user-friendly design ensures that users can navigate and complete tasks effici
 
 ### Importance of identifying design properties of a mock up design
 Identifying design properties in a mock-up is essential for ensuring clear communication of visual and functional goals, maintaining consistency across the application, and guiding efficient development to reduce rework. It also helps prioritize usability and accessibility, aligning the final product with the intended user experience.
+
+## Project Roles and Responsibilities  
+
+- **Project Manager:** Oversees timelines, resources, and communication to ensure the project stays on track.  
+- **Frontend Developers:** Build the user interface, ensuring responsiveness and seamless user interaction.  
+- **Backend Developers:** Develop server-side logic, manage databases, and integrate APIs for core functionality.  
+- **Designers:** Create mock-ups and define the visual style to enhance usability and aesthetics.  
+- **QA/Testers:** Test for bugs, usability, and performance to ensure stability and functionality.  
+- **DevOps Engineers:** Manage deployment pipelines, scalability, and security for smooth operation.  
+- **Product Owner:** Defines requirements, prioritizes tasks, and aligns the product with user needs.  
+- **Scrum Master:** Facilitates Agile practices, resolves roadblocks, and ensures team productivity.  
+
+## UI Component Patterns  
+
+### Planned Components  
+
+1. **Navbar**  
+   - A top navigation bar for seamless navigation across the application.  
+   - Includes links to home, search, bookings, and user profile pages.  
+   - Responsive design for both desktop and mobile views.  
+
+2. **Property Card**  
+   - A visually appealing card to display property details.  
+   - Includes an image, property name, location, price, and availability status.  
+   - Provides a clickable link to the detailed property view.  
+
+3. **Footer**  
+   - A bottom section containing site-wide links, copyright information, and social media icons.  
+   - Ensures consistent branding and quick access to important pages.  
+
+4. **Search Bar**  
+   - A central search component for users to find properties by location, date, and guest count.  
+   - Includes dropdowns and date pickers for easy input.  
+
+5. **User Profile Dropdown**  
+   - A dropdown menu in the Navbar to access user-specific options like account settings, bookings, and logout.  
+   - Displays the user's profile picture and name.  
+
+6. **Property Details Section**  
+   - A detailed component for displaying property information, amenities, reviews, and booking options.  
+   - Includes a photo carousel and a booking CTA (Call-to-Action) button.  
+
+7. **Booking Summary Card**  
+   - A sidebar component summarizing booking details, such as property name, dates, guest count, and price breakdown.  
+   - Includes a final "Confirm Booking" button.  
+
+8. **Modal Windows**  
+   - Reusable modals for user interactions like signing in, signing up, and error messages.  
+   - Includes clear CTAs and input forms.  
+
+9. **Review Card**  
+   - Displays individual user reviews with a star rating, reviewer name, and review text.  
+   - Helps build credibility and trust for properties.  
+
+10. **Pagination Component**  
+   - Allows users to navigate through multiple pages of search results or listings.  
+   - Includes numbered pages and next/previous buttons.  
+
+11. **Filter Sidebar**  
+   - A collapsible component for filtering properties by price range, property type, amenities, and more.  
+   - Enhances search refinement.  
+
+12. **Notification Toasts**  
+   - Non-intrusive notifications for actions like successful bookings, errors, or updates.  
+   - Appears temporarily at the top or bottom of the screen.  
+
+13. **Map Integration Component**  
+   - Displays property locations on an interactive map.  
+   - Allows users to view properties by location and click markers for more details.  
+
+These components will work together to create a cohesive, user-friendly Airbnb clone.
+
 ---
 😊
