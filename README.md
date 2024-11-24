@@ -59,7 +59,11 @@ This project involves building an Airbnb clone, focusing on creating a web appli
 | Simple Checkout View  | Guides users through the booking process after selecting a property.        | Booking summary, pricing breakdown, payment options, and confirmation button.                |
 
 
-### Importance of a User-Friendly Design in a Booking System  
-A user-friendly design ensures that users can navigate and complete tasks efficiently, reducing the likelihood of errors or frustration. For a booking system, this is critical as it involves multiple steps, such as browsing, selecting, and purchasing. Simplifying these processes not only enhances user satisfaction but also increases the likelihood of successful bookings, thereby boosting user retention and trust in the platform.  
+### Importance of a User-Friendly Design in a Booking System 
+A user-friendly design ensures that users can navigate and complete tasks efficiently, reducing the likelihood of errors or frustration. For a booking system, this is critical as it involves multiple steps, such as browsing, selecting, and purchasing. Simplifying these processes not only enhances user satisfaction but also increases the likelihood of successful bookings, thereby boosting user retention and trust in the platform. 
+
+### UI/UX Design Planning
+
+
 ---
 😊
